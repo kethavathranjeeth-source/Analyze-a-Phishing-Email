@@ -1,0 +1,18 @@
+#Summary of Findings
+The email exhibits strong phishing indicators, including:
+•	A spoofed sender address
+•	Header inconsistencies
+•	Malicious URL redirection
+•	Risky attachment
+•	Urgent and threatening tone
+•	Grammar errors and branding inconsistencies
+#Prevention 
+•	Do not click links or open attachments.
+•	Report and block the sender domain.
+•	Educate users on phishing recognition.
+•	Enable email authentication controls (SPF, DKIM, DMARC).
+#Conclusion
+ The email is a confirmed phishing attempt aimed at credential theft.
+It leverages spoofed domains, fake links, panic-inducing language, and an HTML attachment to deceive recipients.
+
+
