@@ -1,0 +1,24 @@
+ #Sender Spoofing
+•	The sender uses a domain designed to look like PayPal, replacing “l” with “I”(one).
+•	Indicates impersonation and domain spoofing.
+ #Header Discrepancies
+•	Return-Path does not match the From address.
+•	Received IP registered overseas—outside of legitimate mail server ranges.
+•	Suggests tampering or unauthorized relay.
+#Suspicious Links
+•	Link text: “Verify Your Account”
+•	Hover URL points to login.paypaI-secure-auth.com, a fake domain.
+•	Classic indicator of credential-harvesting intent.
+#Suspicious Attachment
+•	HTML file (“Account_Verification.html”) included.
+•	HTML attachments often host phishing login forms.
+ #Urgency & Fear Tactics
+•	Claims of “permanent suspension” and “immediate action required.”
+•	Designed to create panic and reduce user judgment.
+#Spelling & Grammar Errors
+•	Multiple mistakes and inconsistent formatting.
+•	Common trait of phishing campaigns.
+ #Branding Issues
+•	Distorted logo and missing official footer links.
+•	Indicates template misuse or poor imitation.
+
